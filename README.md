@@ -1,5 +1,4 @@
 # Student-Rest-API
-# Student Records REST API
 
 A RESTful API built with Spring Boot to manage student records. It supports full CRUD operations, input validation, and structured error handling, and stores data in an in-memory H2 database.
 
